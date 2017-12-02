@@ -3,7 +3,7 @@ import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 internal class p383_test {
-    private var solution: Solution = Solution()
+    private var solution: p383 = p383()
 
     @Test
     fun positive() {

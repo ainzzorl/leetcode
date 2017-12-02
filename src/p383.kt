@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/ransom-note/description/
-class Solution {
+class p383 {
     fun canConstruct(ransomNote: String, magazine: String): Boolean {
         val ransomMap = toFrequencyMap(ransomNote)
         val magazineMap = toFrequencyMap(magazine)
