@@ -1,3 +1,5 @@
+package solutions
+
 // https://leetcode.com/problems/regular-expression-matching/description/
 class p010 {
     fun isMatch(s: String, p: String): Boolean {

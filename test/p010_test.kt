@@ -1,9 +1,10 @@
 import org.junit.jupiter.api.Test
+import solutions.p010
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 internal class p010_test {
-    private var solution: p010 = p010()
+    private var solution: p010 = solutions.p010()
 
     @Test
     fun match() {

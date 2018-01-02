@@ -1,3 +1,5 @@
+package solutions
+
 // https://leetcode.com/problems/longest-valid-parentheses/description/
 class p032 {
     fun longestValidParentheses(s: String): Int {

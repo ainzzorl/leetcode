@@ -1,3 +1,5 @@
+package solutions
+
 //https://leetcode.com/problems/first-missing-positive/description/
 class p041 {
     fun firstMissingPositive(nums: IntArray): Int {

@@ -1,9 +1,10 @@
 import org.junit.jupiter.api.Test
+import solutions.p383
 import kotlin.test.assertFalse
 import kotlin.test.assertTrue
 
 internal class p383_test {
-    private var solution: p383 = p383()
+    private var solution: p383 = solutions.p383()
 
     @Test
     fun positive() {

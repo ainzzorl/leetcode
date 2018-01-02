@@ -1,8 +1,9 @@
 import org.junit.jupiter.api.Test
+import solutions.p004
 import kotlin.test.assertEquals
 
 internal class p004_test {
-    private var solution: p004 = p004()
+    private var solution: p004 = solutions.p004()
 
     @Test
     fun odd() {

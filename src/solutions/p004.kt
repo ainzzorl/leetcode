@@ -1,3 +1,5 @@
+package solutions
+
 // https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 class p004 {
     fun findMedianSortedArrays(nums1: IntArray, nums2: IntArray): Double {

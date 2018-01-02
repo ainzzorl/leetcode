@@ -1,3 +1,5 @@
+package solutions
+
 // https://leetcode.com/problems/ransom-note/description/
 class p383 {
     fun canConstruct(ransomNote: String, magazine: String): Boolean {

@@ -1,8 +1,9 @@
 import org.junit.jupiter.api.Test
+import solutions.p041
 import kotlin.test.assertEquals
 
 internal class p041_test {
-    private var solution: p041 = p041()
+    private var solution: p041 = solutions.p041()
 
     @Test
     fun test() {
